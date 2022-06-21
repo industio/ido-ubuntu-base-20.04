@@ -1,0 +1,535 @@
+
+Start-Date: 2020-07-31  16:57:39
+Commandline: apt-get install --reinstall adduser
+Reinstall: adduser:armhf (3.118ubuntu2)
+End-Date: 2020-07-31  16:57:41
+
+Start-Date: 2020-07-31  16:57:45
+Commandline: apt-get install --reinstall apt
+Reinstall: apt:armhf (2.0.2)
+End-Date: 2020-07-31  16:57:47
+
+Start-Date: 2020-07-31  16:57:51
+Commandline: apt-get install --reinstall base-files
+Reinstall: base-files:armhf (11ubuntu5)
+End-Date: 2020-07-31  16:57:53
+
+Start-Date: 2020-07-31  16:57:56
+Commandline: apt-get install --reinstall base-passwd
+Reinstall: base-passwd:armhf (3.5.47)
+End-Date: 2020-07-31  16:57:58
+
+Start-Date: 2020-07-31  16:58:02
+Commandline: apt-get install --reinstall bash
+Reinstall: bash:armhf (5.0-6ubuntu1)
+End-Date: 2020-07-31  16:58:03
+
+Start-Date: 2020-07-31  16:58:07
+Commandline: apt-get install --reinstall bsdutils
+Reinstall: bsdutils:armhf (1:2.34-0.1ubuntu9)
+End-Date: 2020-07-31  16:58:08
+
+Start-Date: 2020-07-31  16:58:12
+Commandline: apt-get install --reinstall bzip2
+Reinstall: bzip2:armhf (1.0.8-2)
+End-Date: 2020-07-31  16:58:13
+
+Start-Date: 2020-07-31  16:58:16
+Commandline: apt-get install --reinstall coreutils
+Reinstall: coreutils:armhf (8.30-3ubuntu2)
+End-Date: 2020-07-31  16:58:18
+
+Start-Date: 2020-07-31  16:58:21
+Commandline: apt-get install --reinstall dash
+Reinstall: dash:armhf (0.5.10.2-6)
+End-Date: 2020-07-31  16:58:23
+
+Start-Date: 2020-07-31  16:58:26
+Commandline: apt-get install --reinstall debconf
+Reinstall: debconf:armhf (1.5.73)
+End-Date: 2020-07-31  16:58:28
+
+Start-Date: 2020-07-31  16:58:32
+Commandline: apt-get install --reinstall debianutils
+Reinstall: debianutils:armhf (4.9.1)
+End-Date: 2020-07-31  16:58:33
+
+Start-Date: 2020-07-31  16:58:37
+Commandline: apt-get install --reinstall diffutils
+Reinstall: diffutils:armhf (1:3.7-3)
+End-Date: 2020-07-31  16:58:38
+
+Start-Date: 2020-07-31  16:58:43
+Commandline: apt-get install --reinstall dpkg
+Reinstall: dpkg:armhf (1.19.7ubuntu3)
+End-Date: 2020-07-31  16:58:44
+
+Start-Date: 2020-07-31  16:58:48
+Commandline: apt-get install --reinstall e2fsprogs
+Reinstall: e2fsprogs:armhf (1.45.5-2ubuntu1)
+End-Date: 2020-07-31  16:58:50
+
+Start-Date: 2020-07-31  16:58:53
+Commandline: apt-get install --reinstall fdisk
+Reinstall: fdisk:armhf (2.34-0.1ubuntu9)
+End-Date: 2020-07-31  16:58:54
+
+Start-Date: 2020-07-31  16:58:58
+Commandline: apt-get install --reinstall findutils
+Reinstall: findutils:armhf (4.7.0-1ubuntu1)
+End-Date: 2020-07-31  16:58:59
+
+Start-Date: 2020-07-31  16:59:02
+Commandline: apt-get install --reinstall gcc-10-base:armhf
+Reinstall: gcc-10-base:armhf (10-20200411-0ubuntu1)
+End-Date: 2020-07-31  16:59:04
+
+Start-Date: 2020-07-31  16:59:07
+Commandline: apt-get install --reinstall gpgv
+Reinstall: gpgv:armhf (2.2.19-3ubuntu2)
+End-Date: 2020-07-31  16:59:09
+
+Start-Date: 2020-07-31  16:59:12
+Commandline: apt-get install --reinstall grep
+Reinstall: grep:armhf (3.4-1)
+End-Date: 2020-07-31  16:59:14
+
+Start-Date: 2020-07-31  16:59:17
+Commandline: apt-get install --reinstall gzip
+Reinstall: gzip:armhf (1.10-0ubuntu4)
+End-Date: 2020-07-31  16:59:19
+
+Start-Date: 2020-07-31  16:59:22
+Commandline: apt-get install --reinstall hostname
+Reinstall: hostname:armhf (3.23)
+End-Date: 2020-07-31  16:59:23
+
+Start-Date: 2020-07-31  16:59:26
+Commandline: apt-get install --reinstall init-system-helpers
+Reinstall: init-system-helpers:armhf (1.57)
+End-Date: 2020-07-31  16:59:28
+
+Start-Date: 2020-07-31  16:59:31
+Commandline: apt-get install --reinstall libacl1:armhf
+Reinstall: libacl1:armhf (2.2.53-6)
+End-Date: 2020-07-31  16:59:33
+
+Start-Date: 2020-07-31  16:59:36
+Commandline: apt-get install --reinstall libapt-pkg6.0:armhf
+Reinstall: libapt-pkg6.0:armhf (2.0.2)
+End-Date: 2020-07-31  16:59:38
+
+Start-Date: 2020-07-31  16:59:41
+Commandline: apt-get install --reinstall libattr1:armhf
+Reinstall: libattr1:armhf (1:2.4.48-5)
+End-Date: 2020-07-31  16:59:43
+
+Start-Date: 2020-07-31  16:59:46
+Commandline: apt-get install --reinstall libaudit-common
+Reinstall: libaudit-common:armhf (1:2.8.5-2ubuntu6)
+End-Date: 2020-07-31  16:59:48
+
+Start-Date: 2020-07-31  16:59:51
+Commandline: apt-get install --reinstall libaudit1:armhf
+Reinstall: libaudit1:armhf (1:2.8.5-2ubuntu6)
+End-Date: 2020-07-31  16:59:52
+
+Start-Date: 2020-07-31  16:59:56
+Commandline: apt-get install --reinstall libblkid1:armhf
+Reinstall: libblkid1:armhf (2.34-0.1ubuntu9)
+End-Date: 2020-07-31  16:59:57
+
+Start-Date: 2020-07-31  17:00:01
+Commandline: apt-get install --reinstall libbz2-1.0:armhf
+Reinstall: libbz2-1.0:armhf (1.0.8-2)
+End-Date: 2020-07-31  17:00:02
+
+Start-Date: 2020-07-31  17:00:05
+Commandline: apt-get install --reinstall libc-bin
+Reinstall: libc-bin:armhf (2.31-0ubuntu9)
+End-Date: 2020-07-31  17:00:07
+
+Start-Date: 2020-07-31  17:00:10
+Commandline: apt-get install --reinstall libc6:armhf
+Reinstall: libc6:armhf (2.31-0ubuntu9)
+End-Date: 2020-07-31  17:00:14
+
+Start-Date: 2020-07-31  17:00:17
+Commandline: apt-get install --reinstall libcap-ng0:armhf
+Reinstall: libcap-ng0:armhf (0.7.9-2.1build1)
+End-Date: 2020-07-31  17:00:19
+
+Start-Date: 2020-07-31  17:00:22
+Commandline: apt-get install --reinstall libcom-err2:armhf
+Reinstall: libcom-err2:armhf (1.45.5-2ubuntu1)
+End-Date: 2020-07-31  17:00:23
+
+Start-Date: 2020-07-31  17:00:27
+Commandline: apt-get install --reinstall libcrypt1:armhf
+Reinstall: libcrypt1:armhf (1:4.4.10-10ubuntu4)
+End-Date: 2020-07-31  17:00:28
+
+Start-Date: 2020-07-31  17:00:32
+Commandline: apt-get install --reinstall libdb5.3:armhf
+Reinstall: libdb5.3:armhf (5.3.28+dfsg1-0.6ubuntu2)
+End-Date: 2020-07-31  17:00:34
+
+Start-Date: 2020-07-31  17:00:37
+Commandline: apt-get install --reinstall libdebconfclient0:armhf
+Reinstall: libdebconfclient0:armhf (0.251ubuntu1)
+End-Date: 2020-07-31  17:00:39
+
+Start-Date: 2020-07-31  17:00:42
+Commandline: apt-get install --reinstall libext2fs2:armhf
+Reinstall: libext2fs2:armhf (1.45.5-2ubuntu1)
+End-Date: 2020-07-31  17:00:43
+
+Start-Date: 2020-07-31  17:00:46
+Commandline: apt-get install --reinstall libfdisk1:armhf
+Reinstall: libfdisk1:armhf (2.34-0.1ubuntu9)
+End-Date: 2020-07-31  17:00:48
+
+Start-Date: 2020-07-31  17:00:51
+Commandline: apt-get install --reinstall libffi7:armhf
+Reinstall: libffi7:armhf (3.3-4)
+End-Date: 2020-07-31  17:00:52
+
+Start-Date: 2020-07-31  17:00:56
+Commandline: apt-get install --reinstall libgcc-s1:armhf
+Reinstall: libgcc-s1:armhf (10-20200411-0ubuntu1)
+End-Date: 2020-07-31  17:00:57
+
+Start-Date: 2020-07-31  17:01:00
+Commandline: apt-get install --reinstall libgcrypt20:armhf
+Reinstall: libgcrypt20:armhf (1.8.5-5ubuntu1)
+End-Date: 2020-07-31  17:01:02
+
+Start-Date: 2020-07-31  17:01:05
+Commandline: apt-get install --reinstall libgmp10:armhf
+Reinstall: libgmp10:armhf (2:6.2.0+dfsg-4)
+End-Date: 2020-07-31  17:01:07
+
+Start-Date: 2020-07-31  17:01:10
+Commandline: apt-get install --reinstall libgnutls30:armhf
+Reinstall: libgnutls30:armhf (3.6.13-2ubuntu1)
+End-Date: 2020-07-31  17:01:12
+
+Start-Date: 2020-07-31  17:01:15
+Commandline: apt-get install --reinstall libgpg-error0:armhf
+Reinstall: libgpg-error0:armhf (1.37-1)
+End-Date: 2020-07-31  17:01:17
+
+Start-Date: 2020-07-31  17:01:20
+Commandline: apt-get install --reinstall libhogweed5:armhf
+Reinstall: libhogweed5:armhf (3.5.1+really3.5.1-2)
+End-Date: 2020-07-31  17:01:22
+
+Start-Date: 2020-07-31  17:01:25
+Commandline: apt-get install --reinstall libidn2-0:armhf
+Reinstall: libidn2-0:armhf (2.2.0-2)
+End-Date: 2020-07-31  17:01:27
+
+Start-Date: 2020-07-31  17:01:30
+Commandline: apt-get install --reinstall liblz4-1:armhf
+Reinstall: liblz4-1:armhf (1.9.2-2)
+End-Date: 2020-07-31  17:01:32
+
+Start-Date: 2020-07-31  17:01:35
+Commandline: apt-get install --reinstall liblzma5:armhf
+Reinstall: liblzma5:armhf (5.2.4-1)
+End-Date: 2020-07-31  17:01:36
+
+Start-Date: 2020-07-31  17:01:40
+Commandline: apt-get install --reinstall libmount1:armhf
+Reinstall: libmount1:armhf (2.34-0.1ubuntu9)
+End-Date: 2020-07-31  17:01:41
+
+Start-Date: 2020-07-31  17:01:45
+Commandline: apt-get install --reinstall libncurses6:armhf
+Reinstall: libncurses6:armhf (6.2-0ubuntu2)
+End-Date: 2020-07-31  17:01:46
+
+Start-Date: 2020-07-31  17:01:49
+Commandline: apt-get install --reinstall libncursesw6:armhf
+Reinstall: libncursesw6:armhf (6.2-0ubuntu2)
+End-Date: 2020-07-31  17:01:50
+
+Start-Date: 2020-07-31  17:01:54
+Commandline: apt-get install --reinstall libnettle7:armhf
+Reinstall: libnettle7:armhf (3.5.1+really3.5.1-2)
+End-Date: 2020-07-31  17:01:55
+
+Start-Date: 2020-07-31  17:01:59
+Commandline: apt-get install --reinstall libp11-kit0:armhf
+Reinstall: libp11-kit0:armhf (0.23.20-1build1)
+End-Date: 2020-07-31  17:02:00
+
+Start-Date: 2020-07-31  17:02:04
+Commandline: apt-get install --reinstall libpam-modules:armhf
+Reinstall: libpam-modules:armhf (1.3.1-5ubuntu4)
+End-Date: 2020-07-31  17:02:05
+
+Start-Date: 2020-07-31  17:02:09
+Commandline: apt-get install --reinstall libpam-modules-bin
+Reinstall: libpam-modules-bin:armhf (1.3.1-5ubuntu4)
+End-Date: 2020-07-31  17:02:10
+
+Start-Date: 2020-07-31  17:02:13
+Commandline: apt-get install --reinstall libpam-runtime
+Reinstall: libpam-runtime:armhf (1.3.1-5ubuntu4)
+End-Date: 2020-07-31  17:02:15
+
+Start-Date: 2020-07-31  17:02:19
+Commandline: apt-get install --reinstall libpam0g:armhf
+Reinstall: libpam0g:armhf (1.3.1-5ubuntu4)
+End-Date: 2020-07-31  17:02:20
+
+Start-Date: 2020-07-31  17:02:24
+Commandline: apt-get install --reinstall libpcre2-8-0:armhf
+Reinstall: libpcre2-8-0:armhf (10.34-7)
+End-Date: 2020-07-31  17:02:25
+
+Start-Date: 2020-07-31  17:02:28
+Commandline: apt-get install --reinstall libpcre3:armhf
+Reinstall: libpcre3:armhf (2:8.39-12build1)
+End-Date: 2020-07-31  17:02:30
+
+Start-Date: 2020-07-31  17:02:33
+Commandline: apt-get install --reinstall libprocps8:armhf
+Reinstall: libprocps8:armhf (2:3.3.16-1ubuntu2)
+End-Date: 2020-07-31  17:02:34
+
+Start-Date: 2020-07-31  17:02:38
+Commandline: apt-get install --reinstall libseccomp2:armhf
+Reinstall: libseccomp2:armhf (2.4.3-1ubuntu1)
+End-Date: 2020-07-31  17:02:39
+
+Start-Date: 2020-07-31  17:02:42
+Commandline: apt-get install --reinstall libselinux1:armhf
+Reinstall: libselinux1:armhf (3.0-1build2)
+End-Date: 2020-07-31  17:02:44
+
+Start-Date: 2020-07-31  17:02:47
+Commandline: apt-get install --reinstall libsemanage-common
+Reinstall: libsemanage-common:armhf (3.0-1build2)
+End-Date: 2020-07-31  17:02:49
+
+Start-Date: 2020-07-31  17:02:52
+Commandline: apt-get install --reinstall libsemanage1:armhf
+Reinstall: libsemanage1:armhf (3.0-1build2)
+End-Date: 2020-07-31  17:02:54
+
+Start-Date: 2020-07-31  17:02:57
+Commandline: apt-get install --reinstall libsepol1:armhf
+Reinstall: libsepol1:armhf (3.0-1)
+End-Date: 2020-07-31  17:02:59
+
+Start-Date: 2020-07-31  17:03:02
+Commandline: apt-get install --reinstall libsmartcols1:armhf
+Reinstall: libsmartcols1:armhf (2.34-0.1ubuntu9)
+End-Date: 2020-07-31  17:03:03
+
+Start-Date: 2020-07-31  17:03:07
+Commandline: apt-get install --reinstall libss2:armhf
+Reinstall: libss2:armhf (1.45.5-2ubuntu1)
+End-Date: 2020-07-31  17:03:08
+
+Start-Date: 2020-07-31  17:03:12
+Commandline: apt-get install --reinstall libstdc++6:armhf
+Reinstall: libstdc++6:armhf (10-20200411-0ubuntu1)
+End-Date: 2020-07-31  17:03:13
+
+Start-Date: 2020-07-31  17:03:17
+Commandline: apt-get install --reinstall libsystemd0:armhf
+Reinstall: libsystemd0:armhf (245.4-4ubuntu3)
+End-Date: 2020-07-31  17:03:18
+
+Start-Date: 2020-07-31  17:03:22
+Commandline: apt-get install --reinstall libtasn1-6:armhf
+Reinstall: libtasn1-6:armhf (4.16.0-2)
+End-Date: 2020-07-31  17:03:23
+
+Start-Date: 2020-07-31  17:03:27
+Commandline: apt-get install --reinstall libtinfo6:armhf
+Reinstall: libtinfo6:armhf (6.2-0ubuntu2)
+End-Date: 2020-07-31  17:03:28
+
+Start-Date: 2020-07-31  17:03:31
+Commandline: apt-get install --reinstall libudev1:armhf
+Reinstall: libudev1:armhf (245.4-4ubuntu3)
+End-Date: 2020-07-31  17:03:33
+
+Start-Date: 2020-07-31  17:03:36
+Commandline: apt-get install --reinstall libunistring2:armhf
+Reinstall: libunistring2:armhf (0.9.10-2)
+End-Date: 2020-07-31  17:03:38
+
+Start-Date: 2020-07-31  17:03:41
+Commandline: apt-get install --reinstall libuuid1:armhf
+Reinstall: libuuid1:armhf (2.34-0.1ubuntu9)
+End-Date: 2020-07-31  17:03:43
+
+Start-Date: 2020-07-31  17:03:46
+Commandline: apt-get install --reinstall libzstd1:armhf
+Reinstall: libzstd1:armhf (1.4.4+dfsg-3)
+End-Date: 2020-07-31  17:03:48
+
+Start-Date: 2020-07-31  17:03:51
+Commandline: apt-get install --reinstall login
+Reinstall: login:armhf (1:4.8.1-1ubuntu5)
+End-Date: 2020-07-31  17:03:52
+
+Start-Date: 2020-07-31  17:03:56
+Commandline: apt-get install --reinstall logsave
+Reinstall: logsave:armhf (1.45.5-2ubuntu1)
+End-Date: 2020-07-31  17:03:57
+
+Start-Date: 2020-07-31  17:04:00
+Commandline: apt-get install --reinstall lsb-base
+Reinstall: lsb-base:armhf (11.1.0ubuntu2)
+End-Date: 2020-07-31  17:04:02
+
+Start-Date: 2020-07-31  17:04:05
+Commandline: apt-get install --reinstall mawk
+Reinstall: mawk:armhf (1.3.4.20200120-2)
+End-Date: 2020-07-31  17:04:06
+
+Start-Date: 2020-07-31  17:04:09
+Commandline: apt-get install --reinstall mount
+Reinstall: mount:armhf (2.34-0.1ubuntu9)
+End-Date: 2020-07-31  17:04:11
+
+Start-Date: 2020-07-31  17:04:14
+Commandline: apt-get install --reinstall ncurses-base
+Reinstall: ncurses-base:armhf (6.2-0ubuntu2)
+End-Date: 2020-07-31  17:04:15
+
+Start-Date: 2020-07-31  17:04:19
+Commandline: apt-get install --reinstall ncurses-bin
+Reinstall: ncurses-bin:armhf (6.2-0ubuntu2)
+End-Date: 2020-07-31  17:04:20
+
+Start-Date: 2020-07-31  17:04:24
+Commandline: apt-get install --reinstall passwd
+Reinstall: passwd:armhf (1:4.8.1-1ubuntu5)
+End-Date: 2020-07-31  17:04:26
+
+Start-Date: 2020-07-31  17:04:29
+Commandline: apt-get install --reinstall perl-base
+Reinstall: perl-base:armhf (5.30.0-9build1)
+End-Date: 2020-07-31  17:04:31
+
+Start-Date: 2020-07-31  17:04:34
+Commandline: apt-get install --reinstall procps
+Reinstall: procps:armhf (2:3.3.16-1ubuntu2)
+End-Date: 2020-07-31  17:04:35
+
+Start-Date: 2020-07-31  17:04:39
+Commandline: apt-get install --reinstall sed
+Reinstall: sed:armhf (4.7-1)
+End-Date: 2020-07-31  17:04:40
+
+Start-Date: 2020-07-31  17:04:43
+Commandline: apt-get install --reinstall sensible-utils
+Reinstall: sensible-utils:armhf (0.0.12+nmu1)
+End-Date: 2020-07-31  17:04:45
+
+Start-Date: 2020-07-31  17:04:48
+Commandline: apt-get install --reinstall sysvinit-utils
+Reinstall: sysvinit-utils:armhf (2.96-2.1ubuntu1)
+End-Date: 2020-07-31  17:04:49
+
+Start-Date: 2020-07-31  17:04:53
+Commandline: apt-get install --reinstall tar
+Reinstall: tar:armhf (1.30+dfsg-7)
+End-Date: 2020-07-31  17:04:55
+
+Start-Date: 2020-07-31  17:04:58
+Commandline: apt-get install --reinstall ubuntu-keyring
+Reinstall: ubuntu-keyring:armhf (2020.02.11.2)
+End-Date: 2020-07-31  17:05:00
+
+Start-Date: 2020-07-31  17:05:03
+Commandline: apt-get install --reinstall util-linux
+Reinstall: util-linux:armhf (2.34-0.1ubuntu9)
+End-Date: 2020-07-31  17:05:05
+
+Start-Date: 2020-07-31  17:05:09
+Commandline: apt-get install --reinstall zlib1g:armhf
+Reinstall: zlib1g:armhf (1:1.2.11.dfsg-2ubuntu1)
+End-Date: 2020-07-31  17:05:10
+
+Start-Date: 2020-07-31  17:05:19
+Commandline: apt-get --yes -oDebug::pkgDepCache::AutoInstall=yes --force-yes upgrade
+Upgrade: libseccomp2:armhf (2.4.3-1ubuntu1, 2.4.3-1ubuntu3.20.04.3), libsystemd0:armhf (245.4-4ubuntu3, 245.4-4ubuntu3.2), apt:armhf (2.0.2, 2.0.2ubuntu0.1), passwd:armhf (1:4.8.1-1ubuntu5, 1:4.8.1-1ubuntu5.20.04), libapt-pkg6.0:armhf (2.0.2, 2.0.2ubuntu0.1), libudev1:armhf (245.4-4ubuntu3, 245.4-4ubuntu3.2), login:armhf (1:4.8.1-1ubuntu5, 1:4.8.1-1ubuntu5.20.04), bash:armhf (5.0-6ubuntu1, 5.0-6ubuntu1.1), libgnutls30:armhf (3.6.13-2ubuntu1, 3.6.13-2ubuntu1.2), base-files:armhf (11ubuntu5, 11ubuntu5.1)
+End-Date: 2020-07-31  17:05:23
+
+Start-Date: 2022-06-12  10:40:39
+Commandline: /usr/bin/apt install language-pack-en-base
+Install: locales:armhf (2.31-0ubuntu9.9, automatic), language-pack-en:armhf (1:20.04+20220211, automatic), language-pack-en-base:armhf (1:20.04+20220211)
+End-Date: 2022-06-12  10:42:17
+
+Start-Date: 2022-06-12  10:50:05
+Commandline: /usr/bin/apt install net-tools ethtool ifupdown iputils-ping rsyslog htop vim dhcpcd5 samba samba-common wpasupplicant jq usbutils -y
+Install: libgssapi3-heimdal:armhf (7.7.0+dfsg-1ubuntu1, automatic), alsa-topology-conf:armhf (1.2.2-1, automatic), libusb-1.0-0:armhf (2:1.0.23-2build1, automatic), libldb2:armhf (2:2.2.3-0ubuntu0.20.04.2, automatic), libnl-route-3-200:armhf (3.4.0-1, automatic), libkrb5-3:armhf (1.17-6ubuntu4.1, automatic), libgssapi-krb5-2:armhf (1.17-6ubuntu4.1, automatic), python3-dnspython:armhf (1.16.0-1build1, automatic), sound-theme-freedesktop:armhf (0.8-2ubuntu1, automatic), libpopt0:armhf (1.16-14, automatic), libcups2:armhf (2.3.1-9ubuntu1.2, automatic), libdbus-1-3:armhf (1.12.16-2ubuntu2.2, automatic), libwind0-heimdal:armhf (7.7.0+dfsg-1ubuntu1, automatic), gnupg-utils:armhf (2.2.19-3ubuntu2.1, automatic), python3-gpg:armhf (1.13.1-7ubuntu2, automatic), libpcsclite1:armhf (1.8.26-3, automatic), jq:armhf (1.6-1ubuntu0.20.04.1), libsasl2-modules-db:armhf (2.1.27+dfsg-2ubuntu0.1, automatic), ifupdown:armhf (0.8.35ubuntu1), vim-common:armhf (2:8.1.2269-1ubuntu5.7, automatic), gpg-wks-client:armhf (2.2.19-3ubuntu2.1, automatic), alsa-ucm-conf:armhf (1.2.2-1ubuntu0.13, automatic), libldap-2.4-2:armhf (2.4.49+dfsg-2ubuntu1.9, automatic), libboost-iostreams1.71.0:armhf (1.71.0-6ubuntu6, automatic), gnupg-l10n:armhf (2.2.19-3ubuntu2.1, automatic), libibverbs1:armhf (28.0-1ubuntu1, automatic), libpython3.8-minimal:armhf (3.8.10-0ubuntu1~20.04.4, automatic), libnl-genl-3-200:armhf (3.4.0-1, automatic), libwbclient0:armhf (2:4.13.17~dfsg-0ubuntu0.21.04.2, automatic), libheimntlm0-heimdal:armhf (7.7.0+dfsg-1ubuntu1, automatic), libksba8:armhf (1.3.5-2, automatic), python3-markdown:armhf (3.1.1-3, automatic), python3-ldb:armhf (2:2.2.3-0ubuntu0.20.04.2, automatic), dbus:armhf (1.12.16-2ubuntu2.2, automatic), dhcpcd5:armhf (7.1.0-2build1), libasound2-data:armhf (1.2.2-2.1ubuntu2.5, automatic), samba:armhf (2:4.13.17~dfsg-0ubuntu0.21.04.2), libpam-cap:armhf (1:2.32-1, automatic), libsqlite3-0:armhf (3.31.1-4ubuntu0.3, automatic), samba-dsdb-modules:armhf (2:4.13.17~dfsg-0ubuntu0.21.04.2, automatic), libicu66:armhf (66.1-2ubuntu2.1, automatic), libelf1:armhf (0.176-1.1build1, automatic), libgpgme11:armhf (1.13.1-7ubuntu2, automatic), libogg0:armhf (1.3.4-0ubuntu1, automatic), libcephfs2:armhf (15.2.16-0ubuntu0.20.04.1, automatic), libbsd0:armhf (0.10.0-1, automatic), libavahi-common-data:armhf (0.7-4ubuntu7.1, automatic), libjq1:armhf (1.6-1ubuntu0.20.04.1, automatic), ibverbs-providers:armhf (28.0-1ubuntu1, automatic), libavahi-common3:armhf (0.7-4ubuntu7.1, automatic), libheimbase1-heimdal:armhf (7.7.0+dfsg-1ubuntu1, automatic), gpg-wks-server:armhf (2.2.19-3ubuntu2.1, automatic), libpython3.8:armhf (3.8.10-0ubuntu1~20.04.4, automatic), python3.8:armhf (3.8.10-0ubuntu1~20.04.4, automatic), gpg:armhf (2.2.19-3ubuntu2.1, automatic), python3:armhf (3.8.2-0ubuntu2, automatic), libk5crypto3:armhf (1.17-6ubuntu4.1, automatic), libvorbisfile3:armhf (1.3.6-2ubuntu1, automatic), tdb-tools:armhf (1.4.3-0ubuntu0.20.04.1, automatic), mime-support:armhf (3.64ubuntu1, automatic), libfastjson4:armhf (0.99.8-2, automatic), python3-six:armhf (1.14.0-2, automatic), libsasl2-2:armhf (2.1.27+dfsg-2ubuntu0.1, automatic), readline-common:armhf (8.0-4, automatic), librdmacm1:armhf (28.0-1ubuntu1, automatic), python3-tdb:armhf (1.4.3-0ubuntu0.20.04.1, automatic), libmagic1:armhf (1:5.38-4, automatic), libassuan0:armhf (2.5.3-7ubuntu2, automatic), libmpdec2:armhf (2.4.2-3, automatic), libexpat1:armhf (2.2.9-1ubuntu0.4, automatic), rsyslog:armhf (8.2001.0-1ubuntu1.3), net-tools:armhf (1.60+git20180626.aebd88e-1ubuntu1), libapparmor1:armhf (2.13.3-7ubuntu5.1, automatic), libtalloc2:armhf (2.3.1-0ubuntu0.20.04.1, automatic), htop:armhf (2.2.0-2build1), libltdl7:armhf (2.4.6-14, automatic), python3-pyparsing:armhf (2.4.6-1, automatic), krb5-locales:armhf (1.17-6ubuntu4.1, automatic), dirmngr:armhf (2.2.19-3ubuntu2.1, automatic), attr:armhf (1:2.4.48-5, automatic), samba-libs:armhf (2:4.13.17~dfsg-0ubuntu0.21.04.2, automatic), python3-minimal:armhf (3.8.2-0ubuntu2, automatic), libmagic-mgc:armhf (1:5.38-4, automatic), libsasl2-modules:armhf (2.1.27+dfsg-2ubuntu0.1, automatic), libboost-thread1.71.0:armhf (1.71.0-6ubuntu6, automatic), python3-samba:armhf (2:4.13.17~dfsg-0ubuntu0.21.04.2, automatic), libatm1:armhf (1:2.5.1-4, automatic), libkrb5support0:armhf (1.17-6ubuntu4.1, automatic), libcap2:armhf (1:2.32-1, automatic), libpython3-stdlib:armhf (3.8.2-0ubuntu2, automatic), python3.8-minimal:armhf (3.8.10-0ubuntu1~20.04.4, automatic), samba-common:armhf (2:4.13.17~dfsg-0ubuntu0.21.04.2), libcap2-bin:armhf (1:2.32-1, automatic), libnl-3-200:armhf (3.4.0-1, automatic), libldap-common:armhf (2.4.49+dfsg-2ubuntu1.9, automatic), libhcrypto4-heimdal:armhf (7.7.0+dfsg-1ubuntu1, automatic), ucf:armhf (3.0038+nmu1, automatic), libkeyutils1:armhf (1.6-6ubuntu1.1, automatic), vim-runtime:armhf (2:8.1.2269-1ubuntu5.7, automatic), vim:armhf (2:8.1.2269-1ubuntu5.7), xz-utils:armhf (5.2.4-1ubuntu1.1, automatic), python3-yaml:armhf (5.3.1-1ubuntu0.1, automatic), samba-vfs-modules:armhf (2:4.13.17~dfsg-0ubuntu0.21.04.2, automatic), python3-pkg-resources:armhf (45.2.0-1, automatic), usb.ids:armhf (2020.03.19-1, automatic), wpasupplicant:armhf (2:2.9-1ubuntu4.3), xxd:armhf (2:8.1.2269-1ubuntu5.7, automatic), libestr0:armhf (0.1.10-2.1, automatic), iproute2:armhf (5.5.0-1ubuntu1, automatic), libreadline8:armhf (8.0-4, automatic), samba-common-bin:armhf (2:4.13.17~dfsg-0ubuntu0.21.04.2, automatic), libonig5:armhf (6.9.4-1, automatic), iputils-ping:armhf (3:20190709-3), libtdb1:armhf (1.4.3-0ubuntu0.20.04.1, automatic), openresolv:armhf (3.10.0-1, automatic), libasound2:armhf (1.2.2-2.1ubuntu2.5, automatic), usbutils:armhf (1:012-2), libgpm2:armhf (1.20.7-5, automatic), python3-talloc:armhf (2.3.1-0ubuntu0.20.04.1, automatic), libxtables12:armhf (1.8.4-3ubuntu2, automatic), file:armhf (1:5.38-4, automatic), python3-crypto:armhf (2.6.1-13ubuntu2, automatic), logrotate:armhf (3.14.0-4ubuntu3, automatic), ethtool:armhf (1:5.4-1), libpython3.8-stdlib:armhf (3.8.10-0ubuntu1~20.04.4, automatic), libroken18-heimdal:armhf (7.7.0+dfsg-1ubuntu1, automatic), python3-pygments:armhf (2.3.1+dfsg-1ubuntu2.2, automatic), libasn1-8-heimdal:armhf (7.7.0+dfsg-1ubuntu1, automatic), libkrb5-26-heimdal:armhf (7.7.0+dfsg-1ubuntu1, automatic), cron:armhf (3.0pl1-136ubuntu1, automatic), libvorbis0a:armhf (1.3.6-2ubuntu1, automatic), libssl1.1:armhf (1.1.1f-1ubuntu2.13, automatic), gnupg:armhf (2.2.19-3ubuntu2.1, automatic), libjansson4:armhf (2.12-1build1, automatic), libyaml-0-2:armhf (0.2.2-1, automatic), libcanberra0:armhf (0.30-7ubuntu1, automatic), pinentry-curses:armhf (1.1.0-3build1, automatic), libnpth0:armhf (1.6-1, automatic), libavahi-client3:armhf (0.7-4ubuntu7.1, automatic), libhx509-5-heimdal:armhf (7.7.0+dfsg-1ubuntu1, automatic), libtevent0:armhf (0.10.2-0ubuntu0.20.04.1, automatic), gpg-agent:armhf (2.2.19-3ubuntu2.1, automatic), librados2:armhf (15.2.16-0ubuntu0.20.04.1, automatic), gpgconf:armhf (2.2.19-3ubuntu2.1, automatic), libmnl0:armhf (1.0.4-2, automatic), python3-packaging:armhf (20.3-1, automatic), gpgsm:armhf (2.2.19-3ubuntu2.1, automatic), tzdata:armhf (2022a-0ubuntu0.20.04, automatic)
+Upgrade: gpgv:armhf (2.2.19-3ubuntu2, 2.2.19-3ubuntu2.1)
+End-Date: 2022-06-12  11:47:51
+
+Start-Date: 2022-06-12  20:10:57
+Commandline: /usr/bin/apt install ssh
+Install: libxdmcp6:armhf (1:1.1.3-0ubuntu1, automatic), libdevmapper1.02.1:armhf (2:1.02.167-1ubuntu1, automatic), dmsetup:armhf (2:1.02.167-1ubuntu1, automatic), networkd-dispatcher:armhf (2.1-2~ubuntu20.04.3, automatic), publicsuffix:armhf (20200303.0012-1, automatic), openssl:armhf (1.1.1f-1ubuntu2.13, automatic), libgirepository-1.0-1:armhf (1.64.1-1~ubuntu20.04.1, automatic), libargon2-1:armhf (0~20171227-0.2, automatic), python3-distro:armhf (1.4.0-1, automatic), xdg-user-dirs:armhf (0.17-2ubuntu1, automatic), libkmod2:armhf (27-1ubuntu2.1, automatic), libpsl5:armhf (0.21.0-1ubuntu1, automatic), python3-urllib3:armhf (1.25.8-2ubuntu0.1, automatic), libwrap0:armhf (7.6.q-30, automatic), openssh-sftp-server:armhf (1:8.2p1-4ubuntu0.5, automatic), python3-idna:armhf (2.8-1, automatic), libx11-6:armhf (2:1.6.9-2ubuntu1.2, automatic), python3-requests:armhf (2.22.0-2ubuntu1, automatic), libfido2-1:armhf (1.3.1-1ubuntu2, automatic), systemd-timesyncd:armhf (245.4-4ubuntu3.17, automatic), libxau6:armhf (1:1.0.9-0ubuntu1, automatic), gir1.2-glib-2.0:armhf (1.64.1-1~ubuntu20.04.1, automatic), libxcb1:armhf (1.14-2, automatic), ssh:armhf (1:8.2p1-4ubuntu0.5), systemd-sysv:armhf (245.4-4ubuntu3.17, automatic), libxmuu1:armhf (2:1.1.3-0ubuntu1, automatic), libpam-systemd:armhf (245.4-4ubuntu3.17, automatic), distro-info-data:armhf (0.43ubuntu1.10, automatic), ncurses-term:armhf (6.2-0ubuntu2, automatic), shared-mime-info:armhf (1.15-1, automatic), systemd:armhf (245.4-4ubuntu3.17, automatic), openssh-server:armhf (1:8.2p1-4ubuntu0.5, automatic), libx11-data:armhf (2:1.6.9-2ubuntu1.2, automatic), openssh-client:armhf (1:8.2p1-4ubuntu0.5, automatic), libnss-systemd:armhf (245.4-4ubuntu3.17, automatic), python3-dbus:armhf (1.2.16-1build1, automatic), libglib2.0-data:armhf (2.64.6-1~ubuntu20.04.4, automatic), lsb-release:armhf (11.1.0ubuntu2, automatic), libxml2:armhf (2.9.10+dfsg-5ubuntu0.20.04.3, automatic), python3-gi:armhf (3.36.0-1, automatic), libedit2:armhf (3.1-20191231-1, automatic), ca-certificates:armhf (20211016~20.04.1, automatic), xauth:armhf (1:1.1-0ubuntu1, automatic), ssh-import-id:armhf (5.10-0ubuntu1, automatic), wget:armhf (1.20.3-1ubuntu2, automatic), libcryptsetup12:armhf (2:2.2.2-3ubuntu2.4, automatic), libjson-c4:armhf (0.13.1+dfsg-7ubuntu0.3, automatic), libip4tc2:armhf (1.8.4-3ubuntu2, automatic), python3-certifi:armhf (2019.11.28-1, automatic), python3-chardet:armhf (3.0.4-4build1, automatic), libcbor0.6:armhf (0.6.0-0ubuntu1, automatic), libglib2.0-0:armhf (2.64.6-1~ubuntu20.04.4, automatic), libxext6:armhf (2:1.3.4-0ubuntu1, automatic)
+Upgrade: libsystemd0:armhf (245.4-4ubuntu3.2, 245.4-4ubuntu3.17)
+End-Date: 2022-06-12  20:12:11
+
+Start-Date: 2022-06-12  21:56:36
+Commandline: /usr/bin/apt install sudo
+Install: sudo:armhf (1.8.31-1ubuntu1.2)
+End-Date: 2022-06-12  21:56:36
+
+Start-Date: 2022-06-12  22:05:49
+Commandline: /usr/bin/apt install ntp
+Install: sntp:armhf (1:4.2.8p12+dfsg-3ubuntu4.20.04.1, automatic), libevent-core-2.1-7:armhf (2.1.11-stable-1, automatic), perl-modules-5.30:armhf (5.30.0-9ubuntu0.2, automatic), netbase:armhf (6.1, automatic), libevent-pthreads-2.1-7:armhf (2.1.11-stable-1, automatic), libperl5.30:armhf (5.30.0-9ubuntu0.2, automatic), ntp:armhf (1:4.2.8p12+dfsg-3ubuntu4.20.04.1), libgdbm6:armhf (1.18.1-5, automatic), perl:armhf (5.30.0-9ubuntu0.2, automatic), libgdbm-compat4:armhf (1.18.1-5, automatic), libopts25:armhf (1:5.18.16-3, automatic)
+Upgrade: perl-base:armhf (5.30.0-9build1, 5.30.0-9ubuntu0.2)
+Remove: systemd-timesyncd:armhf (245.4-4ubuntu3.17)
+End-Date: 2022-06-12  22:05:56
+
+Start-Date: 2022-06-12  22:06:20
+Commandline: /usr/bin/apt install kmod
+Install: kmod:armhf (27-1ubuntu2.1)
+End-Date: 2022-06-12  22:06:21
+
+Start-Date: 2022-06-13  16:48:20
+Commandline: /usr/bin/apt-get install tftp
+Install: tftp:armhf (0.17-22ubuntu2)
+End-Date: 2022-06-13  16:48:21
+
+Start-Date: 2022-06-13  17:33:35
+Commandline: /usr/bin/apt-get install minicom
+Install: lrzsz:armhf (0.12.21-10, automatic), minicom:armhf (2.7.1-1.1)
+End-Date: 2022-06-13  17:33:37
+
+Start-Date: 2022-06-15  17:36:50
+Commandline: /usr/bin/apt-get install iptables
+Install: iptables:armhf (1.8.4-3ubuntu2), libip6tc2:armhf (1.8.4-3ubuntu2, automatic), libnftnl11:armhf (1.1.5-1, automatic), libnfnetlink0:armhf (1.0.1-3build1, automatic), libnetfilter-conntrack3:armhf (1.0.7-2, automatic)
+End-Date: 2022-06-15  17:36:53
+
+Start-Date: 2022-06-15  17:37:34
+Commandline: /usr/bin/apt-get install hostapd
+Install: hostapd:armhf (2:2.9-1ubuntu4.3)
+End-Date: 2022-06-15  17:37:37
+
+Start-Date: 2022-06-15  17:39:25
+Commandline: /usr/bin/apt-get install apt-utils
+Install: apt-utils:armhf (2.0.8)
+Upgrade: apt:armhf (2.0.2ubuntu0.1, 2.0.8), libapt-pkg6.0:armhf (2.0.2ubuntu0.1, 2.0.8)
+End-Date: 2022-06-15  17:39:34
+
+Start-Date: 2022-06-15  17:41:22
+Commandline: /usr/bin/apt-get install udhcpd
+Install: udhcpd:armhf (1:1.30.1-4ubuntu6.4), busybox:armhf (1:1.30.1-4ubuntu6.4, automatic)
+End-Date: 2022-06-15  17:41:24
+
+Start-Date: 2022-06-16  19:15:22
+Commandline: /usr/bin/apt-get install isc-dhcp-server
+Install: libirs-export161:armhf (1:9.11.16+dfsg-3~ubuntu1, automatic), isc-dhcp-common:armhf (4.4.1-2.1ubuntu5.20.04.2, automatic), libisc-export1105:armhf (1:9.11.16+dfsg-3~ubuntu1, automatic), libisccfg-export163:armhf (1:9.11.16+dfsg-3~ubuntu1, automatic), libdns-export1109:armhf (1:9.11.16+dfsg-3~ubuntu1, automatic), isc-dhcp-server:armhf (4.4.1-2.1ubuntu5.20.04.2)
+End-Date: 2022-06-16  19:16:27

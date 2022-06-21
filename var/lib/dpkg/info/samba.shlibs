@@ -1,0 +1,7 @@
+samba/dckeytab.cpython 38-arm-linux-gnueabihf samba (>= 2:4.13.17~dfsg)
+libHDB-SAMBA4 0 samba (= 2:4.13.17~dfsg-0ubuntu0.21.04.2)
+libdb-glue 0 samba (= 2:4.13.17~dfsg-0ubuntu0.21.04.2)
+libhdb-samba4 11 samba (= 2:4.13.17~dfsg-0ubuntu0.21.04.2)
+libkdc-samba4 2 samba (= 2:4.13.17~dfsg-0ubuntu0.21.04.2)
+libmscat 0 samba (= 2:4.13.17~dfsg-0ubuntu0.21.04.2)
+libpac 0 samba (= 2:4.13.17~dfsg-0ubuntu0.21.04.2)

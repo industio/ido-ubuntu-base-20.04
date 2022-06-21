@@ -1,0 +1,6 @@
+6db153fba237d6524094c8d5c143deb2  usr/lib/arm-linux-gnueabihf/libibverbs/libhfi1verbs-rdmav25.so
+dfd9e7f189a229ac5d2c07e125f8b7bc  usr/lib/arm-linux-gnueabihf/libibverbs/libipathverbs-rdmav25.so
+d2f0f4248954d94ce5ada65855ff7e07  usr/lib/arm-linux-gnueabihf/libibverbs/librxe-rdmav25.so
+652ee9e5ab9ff9f11f9ddbe5067e0e0a  usr/lib/arm-linux-gnueabihf/libibverbs/libsiw-rdmav25.so
+a0a9988cf9530e41bd60e00955f368fb  usr/share/doc/ibverbs-providers/copyright
+79a34d4e5988f4dfcfd04b0d9d518a3b  usr/share/lintian/overrides/ibverbs-providers

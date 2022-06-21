@@ -1,0 +1,3 @@
+fc226cedc70bf08ec62a53e5d92ced82  usr/lib/arm-linux-gnueabihf/libcephfs.so.2.0.0
+209ddac5ce1cd11e2da340b9b1c6eea9  usr/share/doc/libcephfs2/copyright
+75e6a87de11914b03ec3efd075dd4898  usr/share/lintian/overrides/libcephfs2

@@ -1,0 +1,4 @@
+#!/bin/sh
+#mount -t tmpfs -o "noexec,nosuid,size=${RUNSIZE:-15%},mode=0755" tmpfs /run
+/customer/demo.sh
+exit 0

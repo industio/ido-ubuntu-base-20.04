@@ -1,0 +1,4 @@
+/etc/libibverbs.d/hfi1verbs.driver
+/etc/libibverbs.d/ipathverbs.driver
+/etc/libibverbs.d/rxe.driver
+/etc/libibverbs.d/siw.driver

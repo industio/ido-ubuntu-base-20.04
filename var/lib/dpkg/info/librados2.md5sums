@@ -1,0 +1,5 @@
+edcf2615b3033fdf173d66c28bfae1c8  usr/lib/arm-linux-gnueabihf/ceph/libceph-common.so.2
+b1b47e27f0551ae092958d414d913363  usr/lib/arm-linux-gnueabihf/librados.so.2.0.0
+571f3413e500bc986ad674c5d0ed92d1  usr/share/doc/librados2/changelog.Debian.gz
+209ddac5ce1cd11e2da340b9b1c6eea9  usr/share/doc/librados2/copyright
+75e6a87de11914b03ec3efd075dd4898  usr/share/lintian/overrides/librados2

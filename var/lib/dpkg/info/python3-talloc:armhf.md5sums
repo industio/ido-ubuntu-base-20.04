@@ -1,0 +1,4 @@
+5008dabaa4775c969ef93a262ce1e2aa  usr/lib/arm-linux-gnueabihf/libpytalloc-util.cpython-38-arm-linux-gnueabihf.so.2.3.1
+b3d9893e368256a04654d21032a4abda  usr/lib/python3/dist-packages/talloc.cpython-38-arm-linux-gnueabihf.so
+ffcd5c31f70f9906445dd55de4d3582e  usr/share/doc/python3-talloc/copyright
+8c7358e2687f4536e1592760f49b2d94  usr/share/lintian/overrides/python3-talloc
